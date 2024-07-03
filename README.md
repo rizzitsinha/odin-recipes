@@ -6,4 +6,4 @@ It provides recipes for three different dishes, namely - French toast, Grilled C
 It's a simple website that uses basic HTML skills and git knowledge.
 
 # Installation
-To view the website, go [here](./index.html)
+To view the website, go [here](https://rizzitsinha.github.io/odin-recipes/)
